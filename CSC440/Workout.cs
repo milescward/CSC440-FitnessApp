@@ -19,6 +19,7 @@ namespace CSC440
         }
         public ICollection<Exercise> Exercises { get; set; }
 
+
         public Workout()
         {
             this.StartTime = DateTime.Now;
