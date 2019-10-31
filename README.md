@@ -1,6 +1,5 @@
 # C\# CSC440 Fitness Application
-### Coding examples, explanations, and short programs used to document
-### coursework during CSC 440 class OCT - DEC 2019
+### Coding examples, explanations, and short programs used to document coursework during CSC 440 class OCT - DEC 2019
 
 Text used: 20483C Programming in C\#
 
